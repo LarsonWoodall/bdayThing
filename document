@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <style>
+     .one{
+     display: block;
+     background-color: yellow;
+     }
+    </style>
+  </head>
+  <body>
+   
+    <div class="one">I am the box 1</div>  
+    <div class="two">I am the box 2</div> 
+        
+  </body>
+</html>
+
